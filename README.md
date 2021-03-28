@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BurakMuezzinoglu
 - 👀 I’m interested in Data Science,AI,Coding
-- 🌱 I’m currently learning Python,Mobile Development
+- 🌱 I’m currently learning Python,Mobile Development,Web Development
 - 📫 How to reach me: mail---> burakmuzzy@gmail.com
 
 <!---
